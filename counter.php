@@ -1,6 +1,6 @@
 <?php
 
-$myIP = "93.103.58.240";
+
 $userIP = $_SERVER['REMOTE_ADDR'];
 
 $counterFile = "counter.txt";
